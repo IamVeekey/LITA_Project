@@ -16,6 +16,8 @@
 
 [Data Visualization](#data-visualization)
 
+[Others](#others)
+
 ### Project Overview
 ---
 This Data Analysis project explores Microsoft Excel as a viable tool for data collection, manipulation and analysis. The Pivot table is a tool used to do this efficiently.
@@ -59,9 +61,10 @@ WHERE CONDITION = TRUE
 ### Data Visualization
 ---
 
-❤❤
-👌😍
-
+❤
+👌
+😍
+---
 |Heading 1|Heading 2|Heading 3|
 |---------|---------|---------|
 |Table 1|Table 2|Table 3|
