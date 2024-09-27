@@ -32,7 +32,7 @@ The primary source of Data is Data.csv and it is an open source data that can be
   1. For Data Cleaning
   2. For Analysis
   3. For Visualization
-- SQL - Structured Query Language for Quering of Data
+- SQL - Structured Query Language for Querying of Data
 - GitHub for Portfolio Building
 
 ### Data Cleaning and Preparations
