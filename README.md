@@ -61,6 +61,8 @@ WHERE CONDITION = TRUE
 ### Data Visualization
 ---
 
+### Others
+---
 ❤
 👌
 😍
