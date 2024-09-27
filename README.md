@@ -1,2 +1,8 @@
 # LITA_Project
-This is where I documented my first project while learning Data Analysis with the Incubator Hub
+
+### Project Title: Pivot Tables
+
+### Project Overview
+This Data Analysis project explores Microsoft Excel as a viable tool for data collection, manipulation and analysis. The Pivot table is a tool used to do this efficiently.
+
+### Data Sources
